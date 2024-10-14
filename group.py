@@ -8,3 +8,6 @@ my_group = [
     {'name': 'Zalika', 'age':28, 'job':'artist','connection': [('friend','Jill')]},
     {'name': 'John', 'age':27, 'job':'writer','connection': [('partner','Jill')]},
     {'name': 'Nash', 'age':34, 'job':'chef','connection': [('landlord','Zalika'),('cousin','John')]}]
+
+
+Jill is 26, a biologist and she is Zalika's friend and John's partner.
